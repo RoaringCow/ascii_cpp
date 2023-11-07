@@ -1,3 +1,0 @@
-/home/ersan/ascii_cpp/build/CMakeFiles/ascii.dir
-/home/ersan/ascii_cpp/build/CMakeFiles/edit_cache.dir
-/home/ersan/ascii_cpp/build/CMakeFiles/rebuild_cache.dir
